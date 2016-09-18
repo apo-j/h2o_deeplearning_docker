@@ -1,5 +1,5 @@
 FROM ubuntu:15.10
-
+MAINTAINER Jiqiong QIU <jiqiong.qiu@gmail.com>
 # Upgrade package index
 RUN apt-get update
 
